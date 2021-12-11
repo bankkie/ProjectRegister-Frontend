@@ -13,3 +13,7 @@ div {
 .css-1t6e9jv-MuiCardActions-root {
   display: block !important;
 }
+
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  margin-top: 100px;
+}
